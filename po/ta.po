@@ -14,15 +14,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-project-window.c:210
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-project-window.c:210
 msgid "User Interface Designer"
 msgstr ""
 
@@ -3485,7 +3485,7 @@ msgstr ""
 #~ msgstr "GTK+ GUI ¸ðÎÀÅ÷"
 
 #, fuzzy
-#~ msgid "Glade-3 GUI Builder"
+#~ msgid "glade-gtk2 GUI Builder"
 #~ msgstr "GTK+ GUI ¸ðÎÀÅ÷"
 
 #, fuzzy

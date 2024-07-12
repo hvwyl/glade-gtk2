@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glade-catalog name="unixprint" library="gladegtk" icon-prefix="gtk" domain="glade3" depends="gtk+" book="gtk">
+<glade-catalog name="unixprint" library="gladegtk" icon-prefix="gtk" domain="glade-gtk2" depends="gtk+" book="gtk">
 
   <glade-widget-classes>
     <glade-widget-class name="GtkPageSetupUnixDialog" generic-name="pagesetupdialog" title="Page Setup Dialog"></glade-widget-class>

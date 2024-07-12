@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 doc\n"
+"Project-Id-Version: glade-gtk2 doc\n"
 "POT-Creation-Date: 2007-03-23 03:47+0000\n"
 "PO-Revision-Date: 2007-04-22 20:09-0000\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
@@ -234,8 +234,8 @@ msgid "Command line"
 msgstr "Command line"
 
 #: C/glade.xml:191(para)
-msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
-msgstr "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
+msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
+msgstr "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -514,8 +514,8 @@ msgid "Glade is maintained by the Glade developers and GNOME community volunteer
 msgstr "Glade is maintained by the Glade developers and GNOME community volunteers. To find more information about Glade, please visit the <ulink url=\"http://glade.gnome.org\" type=\"http\">Glade Web site</ulink>."
 
 #: C/glade.xml:459(para)
-msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
-msgstr "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
+msgstr "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 
 #: C/glade.xml:466(para)
 msgid "Another excellent source of information are the Glade <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-users\" type=\"http\">user</ulink> and <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-devel\" type=\"http\">developer</ulink> mailing lists. In addition to subscribing, you might also want to browse the list archives, available via these same links."

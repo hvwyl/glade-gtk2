@@ -38,7 +38,7 @@ interpreter.
      <programlisting>
 <![CDATA[
 <glade-catalog name="pythonplugin" library="gladepython"
-domain="glade-3" depends="gtk+">
+domain="glade-gtk2" depends="gtk+">
  <init-function>glade_python_init</init-function>
 
  <glade-widget-classes>

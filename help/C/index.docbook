@@ -189,7 +189,7 @@
     		<term>Command line</term>
     		<listitem>
     		<para>To start <application>&app;</application> from a command line, type the following command, 
-    		then press <keycap>Return</keycap>: <command>glade-3</command></para>	 
+    		then press <keycap>Return</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -459,7 +459,7 @@ copies.</para>
     <para>
       To report a bug or make a suggestion regarding this application or
       this manual, you can submit them using 
-      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" 
+      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" 
 	type="http">bugzilla</ulink>.
     </para>
 

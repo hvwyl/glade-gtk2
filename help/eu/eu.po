@@ -1,8 +1,8 @@
-# translation of glade3_help.HEAD.po to Basque
+# translation of glade-gtk2_help.HEAD.po to Basque
 # Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3_help.HEAD\n"
+"Project-Id-Version: glade-gtk2_help.HEAD\n"
 "POT-Creation-Date: 2007-09-04 03:24+0100\n"
 "PO-Revision-Date: 2008-12-14 18:16+0100\n"
 "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
@@ -224,8 +224,8 @@ msgid "Command line"
 msgstr "Komando-lerroa"
 
 #: C/glade.xml:191(para)
-msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
-msgstr "<application>Glade</application> komando-lerrotik abiarazteko, idatzi komando hau, eta sakatu <keycap>Sartu</keycap>: <command>glade-3</command>"
+msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
+msgstr "<application>Glade</application> komando-lerrotik abiarazteko, idatzi komando hau, eta sakatu <keycap>Sartu</keycap>: <command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -504,8 +504,8 @@ msgid "Glade is maintained by the Glade developers and GNOME community volunteer
 msgstr "Glade-ren garatzaileek eta GNOME komunitateko boluntarioek mantentzen dute Glade. Glade-ri buruzko informazio gehiago lortzeko, bisitatu <ulink url=\"http://glade.gnome.org\" type=\"http\">Glade-ren webgunea</ulink>."
 
 #: C/glade.xml:459(para)
-msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
-msgstr "Programa-errore baten berri emateko, edo aplikazio naiz eskuliburuari buruzko iradokizunak egiteko, erabili <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
+msgstr "Programa-errore baten berri emateko, edo aplikazio naiz eskuliburuari buruzko iradokizunak egiteko, erabili <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 
 #: C/glade.xml:466(para)
 msgid "Another excellent source of information are the Glade <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-users\" type=\"http\">user</ulink> and <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-devel\" type=\"http\">developer</ulink> mailing lists. In addition to subscribing, you might also want to browse the list archives, available via these same links."

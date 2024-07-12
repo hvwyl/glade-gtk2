@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Γραμμή εντολών</term>
     		<listitem>
-    		<para>Για να εκκινήσετε το <application>Glade</application> από τη γραμμή εντολών, πληκτρολογήστε την ακόλουθη εντολή και στη συνέχεια πατήστε <keycap>Return</keycap>: <command>glade-3</command></para>	 
+    		<para>Για να εκκινήσετε το <application>Glade</application> από τη γραμμή εντολών, πληκτρολογήστε την ακόλουθη εντολή και στη συνέχεια πατήστε <keycap>Return</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>Περί Glade</title> 
     <para>Το Glade συντηρείται από τους προγραμματιστές του Glade και τους εθελοντές της κοινότητας του GNOME. Για περισσότερες πληροφορίες σχετικά με το Glade, παρακαλώ επισκεφθείτε τον <ulink url="http://glade.gnome.org" type="http">ιστότοπο του Glade</ulink>.</para>
-    <para>Για να αναφέρετε ένα σφάλμα ή να κάνετε μία πρόταση σχετικά με την εφαρμογή ή το εγχειρίδιο, χρησιμοποιήστε το <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.</para>
+    <para>Για να αναφέρετε ένα σφάλμα ή να κάνετε μία πρόταση σχετικά με την εφαρμογή ή το εγχειρίδιο, χρησιμοποιήστε το <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.</para>
 
     <para>Εξαιρετικές πηγές ενημέρωσης για το Glade είναι οι λίστες ταχυδρομείου <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">χρηστών</ulink> και <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">προγραμματιστών</ulink>. Μπορείτε να γραφτείτε συνδρομητές ή να περιηγηθείτε στα αρχεία, που είναι διαθέσιμα στους παραπάνω συνδέσμους.</para>
 

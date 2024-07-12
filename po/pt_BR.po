@@ -1,6 +1,6 @@
-# Brazilian Portuguese translation of glade3.
+# Brazilian Portuguese translation of glade-gtk2.
 # Copyright (C) 2002-2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the glade3 package.
+# This file is distributed under the same license as the glade-gtk2 package.
 # Gustavo Noronha Silva <kov@debian.org>, 2002, 2004.
 # Alexandre Folle de Menezes <afmenez@terra.com.br>, 2003.
 # Afonso Celso Medina <medina@maua.br>, 2004.
@@ -11,7 +11,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-02-28 08:22-0300\n"
 "PO-Revision-Date: 2010-02-27 17:25-0300\n"
@@ -24,19 +24,19 @@ msgstr ""
 "X-Poedit-Language: Portuguese\n"
 "X-Poedit-Country: BRAZIL\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Crie ou abra projetos de interface com o usuário para aplicativos GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Construtor de interfaces Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Construtor de interface"
 

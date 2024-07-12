@@ -360,8 +360,8 @@ top_build_prefix = @top_build_prefix@
 top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 appicondir = $(datadir)/icons/hicolor/32x32/apps
-appicon_DATA = glade-3.png
-EXTRA_DIST = $(appicon_DATA) glade-3.svg
+appicon_DATA = glade-gtk2.png
+EXTRA_DIST = $(appicon_DATA) glade-gtk2.svg
 all: all-am
 
 .SUFFIXES:

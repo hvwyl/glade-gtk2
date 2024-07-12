@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "GTK+ 프로그램의 사용자 인터페이스 디자인을 열거나 새로 만듭니다"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "글레이드 인터페이스 디자인 프로그램"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:439
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:439
 msgid "User Interface Designer"
 msgstr "사용자 인터페이스 디자인 프로그램"
 

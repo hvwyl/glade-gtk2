@@ -1,4 +1,4 @@
-# translation of glade3.HEAD.or.po to Oriya
+# translation of glade-gtk2.HEAD.or.po to Oriya
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
@@ -6,8 +6,8 @@
 # Manoj Kumar Giri <mgiri@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.HEAD.or\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade3&component=general\n"
+"Project-Id-Version: glade-gtk2.HEAD.or\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2009-03-02 23:55+0000\n"
 "PO-Revision-Date: 2009-03-10 17:23+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
@@ -19,15 +19,15 @@ msgstr ""
 "Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
 "\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:440
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:440
 msgid "User Interface Designer"
 msgstr ""
 

@@ -43,7 +43,7 @@ empty (GObject *container, GladeCreateReason reason)
 void
 glade_gnomeui_init (const gchar *name)
 {
-	gchar *argv[2] = {"glade-3", NULL};
+	gchar *argv[2] = {"glade-gtk2", NULL};
 	GtkStockItem items [] = {
 		{ GNOME_STOCK_TIMER,              "GNOME Timer",         0, },
 		{ GNOME_STOCK_TIMER_STOP,         "GNOME Timer stop",    0, },
@@ -78,7 +78,7 @@ glade_gnomeui_init (const gchar *name)
 		{ GNOME_STOCK_TEXT_NUMBERED_LIST, "GNOME Numbered List", 0, }
 	};
 
-	gnome_program_init ("glade-3", "1.0",
+	gnome_program_init ("glade-gtk2", "1.0",
 			    LIBGNOMEUI_MODULE, 1, argv,
 			    GNOME_PARAM_NONE);
 	

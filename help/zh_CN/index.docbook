@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>命令行</term>
     		<listitem>
-    		<para>要从命令行启动 <application>Glade</application>，输入如下命名然后按 <keycap>Return</keycap>：<command>glade-3</command></para>	 
+    		<para>要从命令行启动 <application>Glade</application>，输入如下命名然后按 <keycap>Return</keycap>：<command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>关于 Glade</title> 
     <para>Glade 由 Glade 开发者和 GNOME 社区志愿者维护。要获取更多信息，请访问 <ulink url="http://glade.gnome.org" type="http">Glade Web site</ulink>。</para>
-    <para>报告关于本程序和本手册的bug或建议，您可以使用 <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>。</para>
+    <para>报告关于本程序和本手册的bug或建议，您可以使用 <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>。</para>
 
     <para>关于 Glade 的另外一个好的消息源是 Glade <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">用户</ulink> 和 <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">开发者</ulink> 邮件列表。除了订阅，你可能也行浏览列表归档，可以通过相同的链接访问。</para>
 

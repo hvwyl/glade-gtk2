@@ -1,11 +1,11 @@
-# Finnish messages for glade3.
+# Finnish messages for glade-gtk2.
 # Copyright (C) 2007-2008 Free Software Foundation Inc.
-# This file is distributed under the same license as the glade3 package.
+# This file is distributed under the same license as the glade-gtk2 package.
 # Ilkka Tuohela <hile@iki.fi>, 2007-2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-15 16:58+0300\n"
 "PO-Revision-Date: 2009-01-27 06:45+0300\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Luo tai avaa GTK+ -ja Gnome-sovellusten käyttöliittymäsuunnitelmia"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade -käyttöliittymäkehitin"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:444
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:444
 msgid "User Interface Designer"
 msgstr "Käyttöliittymäkehitin"
 
@@ -211,12 +211,12 @@ msgid ""
 "Glade; if not, write to the Free Software Foundation, Inc., 51 Franklin "
 "Street, Fifth Floor, Boston, MA 02110-1301, USA."
 msgstr ""
-"Glade3 on vapaa ohjelma; voit levittää sitä edelleen ja/tai muokata sitä GNU:"
+"glade-gtk2 on vapaa ohjelma; voit levittää sitä edelleen ja/tai muokata sitä GNU:"
 "n GPL-lisenssin sallimilla tavoilla siten kuin Free Software Foundation on "
 "sen määritellyt; voit halutessasi käyttää lisenssin versiota 2 taikka mitä "
 "tahansa tämän jälkeen ilmestynyttä versiota.\n"
 "\n"
-"Glade3:a levitetään siinä toivossa, että siitä on hyötyä, mutta ILMAN MITÄÄN "
+"glade-gtk2:a levitetään siinä toivossa, että siitä on hyötyä, mutta ILMAN MITÄÄN "
 "TAKUUTA; jopa ilman konkludenttista takuuta MYYNTIKELPOISUUDESTA TAI "
 "SOVELTUMISESTA TIETTYYN ERITYISEEN TARKOITUKSEEN. Yksityiskohtien osalta "
 "katso GNU:n GPL-lisenssiä.\n"

@@ -1,11 +1,11 @@
 # Bulgarian translation of Glade 3 po-file.
 # Copyright (C) 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
-# This file is distributed under the same license as the glade3 package.
+# This file is distributed under the same license as the glade-gtk2 package.
 # Yavor Doganov <yavor@gnu.org>, 2007, 2008, 2009, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 master\n"
+"Project-Id-Version: glade-gtk2 master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-02-25 18:08+0200\n"
 "PO-Revision-Date: 2010-02-24 14:56+0200\n"
@@ -16,20 +16,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 "Създаване или редактиране на потребителски интерфейси за приложения на GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Проектиране на графични интерфейси (Glade)"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Проектиране на потребителски интерфейси"
 

@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>コマンドライン</term>
     		<listitem>
-    		<para><application>Glade</application> をコマンドラインから開始するには以下のコマンドを入力して<keycap>Return</keycap> キーを押します: <command>glade-3</command></para>	 
+    		<para><application>Glade</application> をコマンドラインから開始するには以下のコマンドを入力して<keycap>Return</keycap> キーを押します: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>Gladeについて</title> 
     <para>GladeはGlade開発者とGNOMEコミュニティのボランティアによって維持されています。Gladeについての詳細は <ulink url="http://glade.gnome.org" type="http">GladeのWebサイト</ulink> を参照してください。</para>
-    <para>アプリケーションやこのドキュメントに関するバグの報告や提案については <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink> に投稿してください。</para>
+    <para>アプリケーションやこのドキュメントに関するバグの報告や提案については <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink> に投稿してください。</para>
 
     <para>その他の優れた情報源としてはGladeのメーリングリストである、<ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">user</ulink> と <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">developer</ulink> が挙げられます。これらのメーリングリストへの参加に加えて、同じリンク先で参照できるメーリングリストのアーカイブを読むことをおすすめします。</para>
 

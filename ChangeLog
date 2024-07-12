@@ -101,7 +101,7 @@
 
 2011-10-11  Tristan Van Berkom <tvb@gnome.org>
 
-	* help/Makefile.am: Make help dir use 'glade3' name
+	* help/Makefile.am: Make help dir use 'glade-gtk2' name
 	instead of 'glade' (for bug 646997).
 
 2011-10-10  Tristan Van Berkom <tvb@gnome.org>
@@ -155,7 +155,7 @@
 
 	* configure.ac, NEWS: Rolling Glade 3.8.
 
-	* Backed out 'preview' feature from glade-3-8 branch.
+	* Backed out 'preview' feature from glade-gtk2-8 branch.
 
 	* gladeui/glade-base-editor.c: Backported fixes from master.
 
@@ -273,7 +273,7 @@
 	* gladeui/glade-design-view.c: Made loading progress bar nicer looking and ellipsizing.
 
 	* gladeui/Makefile.am, gladeui/glade-project.c: Changed glade-previewer install name
-	  to glade-3-previewer, reserving the former name for parallel installable 3.10.
+	  to glade-gtk2-previewer, reserving the former name for parallel installable 3.10.
 
 2010-12-28  Tristan Van Berkom <tristanvb@openismus.com>
 
@@ -575,9 +575,9 @@
 
 2010-06-15  Tristan Van Berkom <tvb@gnome.org>
 
-	* configure.ac: Require GTK+ 3.0 and change package domain from glade3 -> glade
+	* configure.ac: Require GTK+ 3.0 and change package domain from glade-gtk2 -> glade
 
-	* src/Makefile.am, gladeui/Makefile.am: application 'glade-3' -> 'glade',
+	* src/Makefile.am, gladeui/Makefile.am: application 'glade-gtk2' -> 'glade',
 	  library libgladeui-1 -> libgladeui-2
 
 	* plugins/Makefile.am, plugins/gnome/*: Removed libgnomeui support.
@@ -786,7 +786,7 @@
 
 	* gladeui/glade-utils.c: Allow loading of libraries installed in optional non-system prefixes;
 	  (so that GtkSourceView catalog is buildable and usable from your jhbuild environment)
-	  assume a path that is: ${prefix}/lib/glade3/modules/../../ and search it after the initial 
+	  assume a path that is: ${prefix}/lib/glade-gtk2/modules/../../ and search it after the initial 
 	  module search path.
 
 	* plugins/gtk+/glade-column-types.c, plugins/gtk+/glade-model-data.c: 
@@ -1328,7 +1328,7 @@
 	* gladeui/glade-widget.c: fixed Bug #525839 "Glade hangs in toolbar editor"
 	  replaced assert with if statement in glade_widget_copy_properties()
 
-	* gladeui/glade-signal-editor.c: fixed Bug #522542 "glade-3 crashes when
+	* gladeui/glade-signal-editor.c: fixed Bug #522542 "glade-gtk2 crashes when
 	  pressing Enter in signal handler entry field"
 	  removed unnecessary treeview row-activated handler.
 
@@ -3931,9 +3931,9 @@
 	* configure.ac: Check for windres on win32. Define version using
 	  separate numbered components (major, minor, micro).
 	  
-	* data/icons/glade-3.ico: New application icon in win32 ICO format.
+	* data/icons/glade-gtk2.ico: New application icon in win32 ICO format.
 	
-	* gladeui/gladeui.rc.in, gladeui/Makefile.am, src/glade-3.rc.in,
+	* gladeui/gladeui.rc.in, gladeui/Makefile.am, src/glade-gtk2.rc.in,
 	  src/Makefile.am: Added win32 resources for the libgladeui dll
 	  and the application executable.
 	  
@@ -4061,7 +4061,7 @@
 
 2007-03-20  Bruno Boaventura  <brunobol@gnome.org>
 
-	* data/glade3.desktop.in.in: Remove incorrect "Application" category
+	* data/glade-gtk2.desktop.in.in: Remove incorrect "Application" category
 	  from Categories. Add "GNOME" to Categories. Fixes #417618.
 
 2007-03-15  Vincent Geddes  <vincent.geddes@gmail.com>
@@ -4216,7 +4216,7 @@
 
 	* docs/catalogintro.sgml: pkg-config file is now 'gladeui-1.0'.
 	
-	* data/glade-3.desktop.in.in: Added 'GUIDesigner' to 'Categories'.
+	* data/glade-gtk2.desktop.in.in: Added 'GUIDesigner' to 'Categories'.
 
 	* gladeui/glade.h, gladeui/glade-app.[ch]:
 	  - Added a private initialisation function `glade_init_check()' for
@@ -4275,13 +4275,13 @@
 	* data/icons/hicolor/: Added new application icon, in sizes 16x16,
 	  22x22, 32x32, 48x48, and scalable. Icon provided by Andreas Nilsson.
 
-	* data/icons/glade-3.png: Removed.
+	* data/icons/glade-gtk2.png: Removed.
 	
 2007-02-06  Tristan Van Berkom <tvb@gnome.org>
 
 	* plugins/gtk+/gtk+.xml.in, plugins/gnome/gnome.xml.in, 
 	  plugins/gnome/canvas.xml.in, plugins/gnome/bonobo.xml.in:
-	  Fixed domain 'glade-3' -> 'glade3' (bug 404917)
+	  Fixed domain 'glade-gtk2' -> 'glade-gtk2' (bug 404917)
 
 	* src/glade-project-window.c: Fixed translation of 'comments' and
 	  'liscence' properties of the about dialog (bug 404917).
@@ -4551,7 +4551,7 @@
 
 	* Makefile.am:
 	* configure.in:
-	* glade-3.desktop.in.in:
+	* glade-gtk2.desktop.in.in:
 	* po/POTFILES.in:
 	* po/POTFILES.skip:
 	Add version to bugzilla info in the .desktop file. Bug #392395.
@@ -4635,7 +4635,7 @@
 
 2006-12-12  Tristan Van Berkom <tvb@gnome.org>
 
-	* configure.in, NEWS: Merged changeset 'GLADE3_3_0_BRANCHPOINT_1' --> 'GLADE3_3_0_MERGEPOINT_2'
+	* configure.in, NEWS: Merged changeset 'glade-gtk2_3_0_BRANCHPOINT_1' --> 'glade-gtk2_3_0_MERGEPOINT_2'
 	  into HEAD
 
 2006-10-26  Tristan Van Berkom <tvb@gnome.org>
@@ -4702,7 +4702,7 @@
 
 	* src/glade-paths.sh.in: New variable GLADE_GNOMEHELPDIR.
 
-	* glade-3.desktop.in: Add "X-GNOME-DocPath" entry.
+	* glade-gtk2.desktop.in: Add "X-GNOME-DocPath" entry.
 	  Add "GTK" to "Categories".
 
 2006-12-06  Juan Pablo Ugarte <juanpablougarte@gmail.com>
@@ -4938,7 +4938,7 @@
 	
 2006-10-26  Tristan Van Berkom <tvb@gnome.org>
 
-	* Merged changeset 'GLADE3_3_0_BRANCHPOINT' --> 'GLADE3_3_0_MERGEPOINT_1'
+	* Merged changeset 'glade-gtk2_3_0_BRANCHPOINT' --> 'glade-gtk2_3_0_MERGEPOINT_1'
 	  into HEAD
 
 2006-10-26  Tristan Van Berkom <tvb@gnome.org>
@@ -5039,14 +5039,14 @@
 2006-09-29  Juan Pablo Ugarte <juanpablougarte@gmail.com>
 
 	* src/glade-parser.[ch]: Renamed every function to avoid namming clash
-	  with libglade (now Anjuta 2 can continue with glade3 plugin)
+	  with libglade (now Anjuta 2 can continue with glade-gtk2 plugin)
 
 	* src/glade-project.c: adapted to new functions names.
 
 2006-09-22  Juan Pablo Ugarte <juanpablougarte@gmail.com>
 
 	* src/glade-property-class.c: fixed bug 353126
-	  "glade3.0.1 lost icons in gtkmenuitem"
+	  "glade-gtk2.0.1 lost icons in gtkmenuitem"
 	  glade_property_class_make_object_from_string() now returns a new 
 	  pixfuf for each missing file name.
 
@@ -5084,7 +5084,7 @@
 	  o Added new member comment to GladeInterface.
 
 	* src/glade-project.[ch]: fixed Bug 342889 
-	  "Put some comment telling about glade-3 in glade files"
+	  "Put some comment telling about glade-gtk2 in glade files"
 	  o Added new function glade_project_update_comment().
 	  o Added new member comment to GladeProject.
 
@@ -5249,7 +5249,7 @@
 	  o Beefed up Projects menu. Added "Previous" and "Next" actions.
 	    Removed the tab alignment.
  
-	* glade-3.desktop.in, src/main.c: Removed the "3" from the application
+	* glade-gtk2.desktop.in, src/main.c: Removed the "3" from the application
 	  title.
  
 	* configure.in: Fixed typo.
@@ -5420,10 +5420,10 @@
 	* src/glade-gtk.c: GtkDialog's main vbox now has 2 placeholders
 	  instead of 3.
 
-	* src/glade-3.pc.in: Change description field to
+	* src/glade-gtk2.pc.in: Change description field to
 	  "Glade Interface Designer".
 
-	* glade-3.desktop.in: Enable startup notification.
+	* glade-gtk2.desktop.in: Enable startup notification.
 
 2006-08-05  Juan Pablo Ugarte <juanpablougarte@gmail.com>
 
@@ -5465,7 +5465,7 @@
 	  "GladeFixed drag/resize "sticks"" added glade_util_set_grabed_widget()
 
 	* src/glade-gtk.c: fixed bug 348964
-	  "Double-clicking in a TextView hangs Glade3"  added callback to stop 
+	  "Double-clicking in a TextView hangs glade-gtk2"  added callback to stop 
 	  GtkTextView's double clicks.
 
 2006-08-01  Clytie Siddall <clytie@riverland.net.au>
@@ -5587,7 +5587,7 @@
 	* src/glade-gtk.c: Fixed bug 348369 "GtkImage doesnt load properly"
 
 	* src/glade-parser.c: Fixed bug 342889
-	  "Put some comment telling about glade-3 in glade files"
+	  "Put some comment telling about glade-gtk2 in glade files"
 	
 2006-07-22  Tristan Van Berkom <tvb@gnome.org>
 
@@ -5631,7 +5631,7 @@
 
 	* src/glade-gtk.c: Fixed bug 346139
 	  "GTK warns of multiple widgets contained in a button with an image"
-	  Simplified GtkButton and GtkImage, Glade3 no longer tries to "remember"
+	  Simplified GtkButton and GtkImage, glade-gtk2 no longer tries to "remember"
 	  properties values (Undo/Redo should be enougth)
 
 2006-07-13  Juan Pablo Ugarte <juanpablougarte@gmail.com>
@@ -5685,7 +5685,7 @@
 2006-07-05  Juan Pablo Ugarte <juanpablougarte@gmail.com>
 
 	* src/glade-builtins.[ch]: fixed bug 343712
-	  "Gnome stock items not recognized by glade-3"
+	  "Gnome stock items not recognized by glade-gtk2"
 	  Added glade_standard_stock_append_prefix () and reworked/optimized
 	  glade_standard_stock_get_type ()
 
@@ -5763,7 +5763,7 @@
 	  o GladePalette now sets the expanded state for widget groups
 	    from glade_widget_group_get_expanded().
 
-	* glade-3.desktop.in: Add "GenericName" field, set
+	* glade-gtk2.desktop.in: Add "GenericName" field, set
 	  to "User Interface Designer".
 
 
@@ -5806,7 +5806,7 @@
 
 	* doc/Makefile.am: Ignoring some headers.
 
-	* configure.in: Package name is now glade3-2.91.3 and not glade-3-2.91.3,
+	* configure.in: Package name is now glade-gtk2-2.91.3 and not glade-gtk2-2.91.3,
 	  this conforms with gnome server scripts and matches the cvs name and
 	  bugzilla name.
 
@@ -5826,10 +5826,10 @@
 	  o The window title and statusbar messages now inform users
 	    of a project's read-only status.
 
-	* glade-3.desktop.in:
+	* glade-gtk2.desktop.in:
 	  o Changed "Name" field to "Glade 3 Interface Designer".
 	  o Changed "Comment" field (more in line with HIG).
-	  o Changed "Icon" field from "glade-3.png" to "glade-3"
+	  o Changed "Icon" field from "glade-gtk2.png" to "glade-gtk2"
 	  o Added "X-GNOME-Bugzilla" fields.
 
 2006-06-23  Tristan Van Berkom <tvb@gnome.org>
@@ -5982,7 +5982,7 @@
 	  rezising when shrinking left/up with full-table widgets.
 
 	* src/glade-utils.c: Fixed the module load code to report errors better
-	  (and dont check system paths for the module, only the glade-3 modules dir.
+	  (and dont check system paths for the module, only the glade-gtk2 modules dir.
 
 	* widgets/gtk+.xml.in: 
 	  o Reorganized groups to be more usefull and logical
@@ -6226,7 +6226,7 @@
 
 2006-05-28  Tristan Van Berkom <tvb@gnome.org>
 
-	* src/Makefile.am: Added -mwindows to glade3_LDFLAGS in win32 compile mode
+	* src/Makefile.am: Added -mwindows to glade-gtk2_LDFLAGS in win32 compile mode
 
 	* src/glade-xml-utils.c: Fallback on default namespace when searching
 	  funcs from the catalog (this seems to only be needed in windows builds)
@@ -6748,7 +6748,7 @@
 	
 2006-04-04  Yevgen Muntyan <muntyan@tamu.edu>
 
-	* configure.in, src/Makefile.am, src/glade-3.pc.in: 
+	* configure.in, src/Makefile.am, src/glade-gtk2.pc.in: 
 	  New pc file for extention libraries to find where to install there catalogs, 
 	  pixmaps and library.
 
@@ -7080,7 +7080,7 @@
 
 2006-02-09  Tristan Van Berkom <tvb@gnome.org>
 
-	* configure.in: Glade 3.0 --> Glade-3
+	* configure.in: Glade 3.0 --> glade-gtk2
 
 	* doc/tmpl/*.sgml, doc/*.sgml, src/*.c: Massive doc updates,
 	  migrated some doc from sgml into source files.
@@ -7194,7 +7194,7 @@
 	* src/glade-project.c: Fixed a stupid segfault typicly
 	  in strcmp().
 
-	* TODO: first go at blockers for glade-3 beta release.
+	* TODO: first go at blockers for glade-gtk2 beta release.
 
 2006-01-28  Tristan Van Berkom <tvb@gnome.org>
 
@@ -7230,7 +7230,7 @@
 2006-01-24  Tristan Van Berkom <tvb@gnome.org>
 
 	* src/glade-project-window.c: use glade_project_display_name (),
-	  reverted transientness for glade-3 application
+	  reverted transientness for glade-gtk2 application
 
 	* src/glade-command.c: Dont spam the stack with fake name
 	  changes.
@@ -8340,7 +8340,7 @@
 	  Now if a property in a parent class is disabled, it will be disabled in the
 	  children (also removed useless special case code for "name" property).
 
-	* widgets/gtk+.xml: Disabled widget name property (since glade-3 handles this 
+	* widgets/gtk+.xml: Disabled widget name property (since glade-gtk2 handles this 
 	  implicitly for all objects).
 	
 2005-07-24  Tristan Van Berkom <tvb@gnome.org>
@@ -8459,7 +8459,7 @@
 	
 2005-04-20  Tristan Van Berkom <tvb@gnome.org>
 
-	* Cleaned up i18n/gettext stuff, Now glade-3 uses <glib/gi18n.h> and
+	* Cleaned up i18n/gettext stuff, Now glade-gtk2 uses <glib/gi18n.h> and
 	  <glib/gi18n-lib.h> for gettext (using the GETTEXT_PACKAGE in config.h)
 
 	* removed g_ok_print (this should be g_debug in glib >= 2.6 but we dont
@@ -8637,10 +8637,10 @@
 	src/main.c:
 	- Segregated UI and application engine.
 	- Created a library for the engine (libgladeui).
-	- glade application specific UI in glade-3 executable.
+	- glade application specific UI in glade-gtk2 executable.
 	- GladeApp class representing glade.
 	- GladeProjectWindow class (subclass of GladeApp) implements
-	UI for glade3 application.
+	UI for glade-gtk2 application.
 	- Fixed other files to use glade_default_app_* API to
 	retrieve various engine elements.
 
@@ -9068,7 +9068,7 @@
 	removed entry for GtkFileSelection.
 
 	* src/glade-project-window.c (gpw_refresh_title): small gui fix. Use
-	Glade-3 GUI Builder as window title.
+	glade-gtk2 GUI Builder as window title.
 
 2004-12-15  Tristan Van Berkom  <tvb@cvs.gnome.org>
 
@@ -9845,9 +9845,9 @@
 2004-04-26  Damon Chaplin  <damon@gnome.org>
 
 	* .cvsignore: added autom4te.cache, changed glade2.desktop to
-	glade-3.desktop, and removed glade2-*.tar.gz.
+	glade-gtk2.desktop, and removed glade2-*.tar.gz.
 
-	* src/.cvsignore: changed glade2 to glade-3.
+	* src/.cvsignore: changed glade2 to glade-gtk2.
 
 2004-04-26  Damon Chaplin  <damon@gnome.org>
 
@@ -10129,7 +10129,7 @@
 
 2003-11-28  Paolo Borelli  <pborelli@katamail.com>
 
-	* glade3.desktop.in: add Encoding property.
+	* glade-gtk2.desktop.in: add Encoding property.
 	* src/main.c: set the app name.
 	* src/glade-xml-utils.[ch]: remove two unused functions.
 
@@ -10211,7 +10211,7 @@
 
 2003-11-06  Joaquin Cuenca Abela  <e98cuenc@yahoo.com>
 
-	* glade-3.png: restore the good png.
+	* glade-gtk2.png: restore the good png.
 
 2003-11-05  Paolo Borelli  <pborelli@katamail.com>
 
@@ -10255,7 +10255,7 @@
 
 2003-11-01  Paolo Borelli  <pborelli@katamail.com>
 
-	* glade-3.desktop.in: minor updates from glade-2.
+	* glade-gtk2.desktop.in: minor updates from glade-2.
 	* Makefile.am: remove .dektop file on make clean.
 	* src/glade-property.[ch]: ifdef out the ->child member since it's
 	unused. Remove glade_property_get_* since they are not needed.
@@ -11305,10 +11305,10 @@
 
 	* Makefile.am, configure.in, src/glade-packing.c,
 	src/glade-project-window.c, src/glade-widget-class.c,
-	src/main.c: Changed all references from glade2 to glade3
-	* glade-2.desktop.in: Renamed to glade-3.desktop.in
-	* glade-2.png: Renamed to glade-3.png
-	* configure.in: Changed all references from glade2 to glade3 and added
+	src/main.c: Changed all references from glade2 to glade-gtk2
+	* glade-2.desktop.in: Renamed to glade-gtk2.desktop.in
+	* glade-2.png: Renamed to glade-gtk2.png
+	* configure.in: Changed all references from glade2 to glade-gtk2 and added
 	version number to the directory where all data is stored.
 	Updated the version to 2.1.90
 	

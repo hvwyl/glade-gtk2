@@ -54,7 +54,7 @@ Glade 3.8.2
 	  specifically when loading files containing large tables.
 	  Fixed bug 663516, Fredy Paquet.
 	- Fixed bug 647984 "Make size groups widget selection work" Benjamin Otte
-	- Make help dir use 'glade3' name instead of 'glade' (for bug 646997).
+	- Make help dir use 'glade-gtk2' name instead of 'glade' (for bug 646997).
 
 ===========
 Glade 3.8.1
@@ -562,7 +562,7 @@ Glade 3.4.1
 ===========
 
 	- Crash in Glade Interface Designer: Clicked the GtkInputDial... (bug 480495) - Juan Pablo Ugarte
-	- Glade3 hangs when loading certain projects containing GtkAssistants (bug 495057) - J. Ali Harlow
+	- glade-gtk2 hangs when loading certain projects containing GtkAssistants (bug 495057) - J. Ali Harlow
 	- Fix options context summary (bug 500940) - Christian Persch
 	- Use gtk_widget_get_action (bug 500943) - Christian Persch
 	- Icon Theme search path is incorrect for win32 (bug 469854) - Martin Schlemmer
@@ -1087,7 +1087,7 @@ New and updated translations
     - Valek Filippov (ru)
 
 ==============
-glade-3 2.91.1
+glade-gtk2 2.91.1
 ==============
 
 New features and fixes
@@ -1110,7 +1110,7 @@ New features and fixes
     - Indicate whether projects have unsaved changes  (Vincent Geddes)
     - Open leafs & scrolled-window position restored on the project view
       when switching projects
-    - Added glade-3.pc for module packages to find out where to install
+    - Added glade-gtk2.pc for module packages to find out where to install
       their modules/catalogs/pixmaps (Yevgen Muntyan)
     - Implemented Adjustments glade-2 style for now (Juan Pablo Ugarte)
     - Manage the sensitivities of all the ui actions in the project window (Vincent Geddes)
@@ -1133,7 +1133,7 @@ New and updated translations
 
 
 ==============
-glade-3 2.91.0
+glade-gtk2 2.91.0
 ==============
 
 New features and fixes
@@ -1184,15 +1184,15 @@ New and updated translations
 
 
 
-What is new in glade-3 2.90.0
+What is new in glade-gtk2 2.90.0
 =============================
 
-    Everything about glade-3 is definitly new in this first ever
+    Everything about glade-gtk2 is definitly new in this first ever
 development snapshot, so I give you here a list of all the 
 all star players that helped up to this point to make it happen
 (anyone I have any kind of record of should be here).
 
-So welcome all to the new, unfinished glade-3, I hope you all enjoy.
+So welcome all to the new, unfinished glade-gtk2, I hope you all enjoy.
 
 Contributors:
 =============

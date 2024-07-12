@@ -1,11 +1,11 @@
-# Czech translation of glade3.
-# Copyright (C) 2009 glade3's COPYRIGHT HOLDER
-# This file is distributed under the same license as the glade3 package.
+# Czech translation of glade-gtk2.
+# Copyright (C) 2009 glade-gtk2's COPYRIGHT HOLDER
+# This file is distributed under the same license as the glade-gtk2 package.
 # Marek Černocký <marek@manet.cz>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 gnome-2-28\n"
+"Project-Id-Version: glade-gtk2 gnome-2-28\n"
 "POT-Creation-Date: 2009-07-23 15:55+0000\n"
 "PO-Revision-Date: 2009-07-24 13:46+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
@@ -242,8 +242,8 @@ msgid "Command line"
 msgstr "Příkazový řádek"
 
 #: C/glade.xml:191(para)
-msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
-msgstr "Pokud chcete aplikaci <application>Glade</application> spustit z příkazové řádky, zadejte následující příkaz a zmáčkněte <keycap>Return</keycap>: <command>glade-3</command>"
+msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
+msgstr "Pokud chcete aplikaci <application>Glade</application> spustit z příkazové řádky, zadejte následující příkaz a zmáčkněte <keycap>Return</keycap>: <command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -522,8 +522,8 @@ msgid "Glade is maintained by the Glade developers and GNOME community volunteer
 msgstr "O údržbu aplikace Glade se starají vývojáři Glade a komunita dobrovolníků GNOME. Pokud hledáte o aplikaci Glade více informací, navštivte prosím <ulink url=\"http://glade.gnome.org\" type=\"http\">web Glade</ulink>."
 
 #: C/glade.xml:459(para)
-msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
-msgstr "Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k této aplikaci nebo této příručce, zašlete je pomocí <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">stránek bugzilla</ulink>."
+msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
+msgstr "Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k této aplikaci nebo této příručce, zašlete je pomocí <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">stránek bugzilla</ulink>."
 
 #: C/glade.xml:466(para)
 msgid "Another excellent source of information are the Glade <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-users\" type=\"http\">user</ulink> and <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-devel\" type=\"http\">developer</ulink> mailing lists. In addition to subscribing, you might also want to browse the list archives, available via these same links."

@@ -1969,7 +1969,7 @@ about_cb (GtkAction *action, GladeWindow *window)
 	
 	gtk_show_about_dialog (GTK_WINDOW (window),
 			       "name", g_get_application_name (),
-			       "logo-icon-name", "glade-3",
+			       "logo-icon-name", "glade-gtk2",
 			       "authors", authors,
 			       "artists", artists,
 			       "documenters", documenters,			       			       

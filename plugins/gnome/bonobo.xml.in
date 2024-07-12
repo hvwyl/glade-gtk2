@@ -2,7 +2,7 @@
                library="gladegnome"
 	       supports="libglade"
                depends="gnome"
-               domain="glade3">
+               domain="glade-gtk2">
   <glade-widget-classes>
     <glade-widget-class name="BonoboDock" generic-name="dock" title="Bonobo Dock">
       <set-property-function>glade_gnome_bonobodock_set_property</set-property-function>

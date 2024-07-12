@@ -8,9 +8,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Glade3 HEAD\n"
+"Project-Id-Version: glade-gtk2 HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=glade3&component=general\n"
+"product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2009-04-18 18:52+0000\n"
 "PO-Revision-Date: 2010-10-30 11:45+0300\n"
 "Last-Translator: Ivar Smolin <okul@linux.ee>\n"

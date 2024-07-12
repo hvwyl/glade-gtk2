@@ -1,15 +1,15 @@
-# Thai translation of glade3
+# Thai translation of glade-gtk2
 # Copyright (C) 2007-2010 Free Software Foundation, Inc.
-# This file is distributed under the same license as the glade3 package.
+# This file is distributed under the same license as the glade-gtk2 package.
 #
 # Supranee Thirawatthanasuk <supranee@opentle.org>, 2007.
 # Theppitak Karoonboonyanan <thep@linux.thai.net>, 2007-2010.
 # aka.ape <aka.ape@gmail.com>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=glade3&component=general\n"
+"product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2010-02-13 21:37+0000\n"
 "PO-Revision-Date: 2010-02-15 16:42+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "สร้างหรือเปิดแบบของส่วนติดต่อผู้ใช้สำหรับโปรแกรม GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Glade: เครื่องมือออกแบบส่วนติดต่อผู้ใช้"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "เครื่องมือออกแบบส่วนติดต่อผู้ใช้"
 

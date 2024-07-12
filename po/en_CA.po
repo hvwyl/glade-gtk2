@@ -1,13 +1,13 @@
-# Canadian English translation for glade3
+# Canadian English translation for glade-gtk2
 # Copyright (C) 2005-2006 Adam Weinberger and the GNOME Foundation
-# This file is distributed under the same licence as the glade3 package.
+# This file is distributed under the same licence as the glade-gtk2 package.
 # Adam Weinberger <adamw@gnome.org>, 2005, 2006.
 #
 #
 #: ../gladeui/glade-project.c:695
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-08-23 18:25-0400\n"
 "PO-Revision-Date: 2005-12-03 20:09-0500\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Create or open user interface designs for GTK+ applications"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade Interface Designer"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:442
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:442
 msgid "User Interface Designer"
 msgstr "User Interface Designer"
 

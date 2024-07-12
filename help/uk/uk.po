@@ -1,11 +1,11 @@
-# Ukrainian translation for glade3.
-# Copyright (C) 2009 glade3's COPYRIGHT HOLDER
-# This file is distributed under the same license as the glade3 package.
+# Ukrainian translation for glade-gtk2.
+# Copyright (C) 2009 glade-gtk2's COPYRIGHT HOLDER
+# This file is distributed under the same license as the glade-gtk2 package.
 # Sergiy Gavrylov <sergiovana@bigmir.net>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 master\n"
+"Project-Id-Version: glade-gtk2 master\n"
 "POT-Creation-Date: 2010-01-05 15:07+0000\n"
 "PO-Revision-Date: 2009-10-09 21:22+0300\n"
 "Last-Translator: Сергій Гаврилов <sergiovana@bigmir.net>\n"
@@ -348,11 +348,11 @@ msgstr "Командний рядок"
 #: C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "Щоб запустити <application>Glade</application> з командного рядка, введіть "
-"команду <command>glade-3</command> і натисніть <keycap>Enter</keycap>"
+"команду <command>glade-gtk2</command> і натисніть <keycap>Enter</keycap>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -809,11 +809,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "Щоб повідомити про помилку або внести пропозицію відносно програми, або "
 "цього посібника, можете відправити їх за допомогою <ulink url=\"http://"
-"bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</"
+"bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</"
 "ulink>."
 
 #: C/glade.xml:466(para)

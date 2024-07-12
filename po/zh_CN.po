@@ -1,13 +1,13 @@
-# Chinese (China) translation of glade3
+# Chinese (China) translation of glade-gtk2
 # Copyright (C) 2005, 2007, 2010 Free Software Foundation, Inc.
-# This file is distributed under the same license as the glade3 package.
+# This file is distributed under the same license as the glade-gtk2 package.
 # Funda Wang <fundawang@linux.net.cn>, 2005
 # Weisheng Wu <wwssir@gmail.com>, 2007
 # Tao Wang <dancefire@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 master\n"
+"Project-Id-Version: glade-gtk2 master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-05 03:30+0800\n"
 "PO-Revision-Date: 2010-09-05 03:30+0800\n"
@@ -17,19 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "新建或打开 GTK+ 程序用户界面设计"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Glade 界面设计师"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "用户界面设计师"
 

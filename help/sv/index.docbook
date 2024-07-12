@@ -183,7 +183,7 @@
     	<varlistentry>
     		<term>Kommandorad</term>
     		<listitem>
-    		<para>För att starta <application>Glade</application> från kommandoraden, ange följande kommando och tryck sedan på <keycap>Return</keycap>: <command>glade-3</command></para>	 
+    		<para>För att starta <application>Glade</application> från kommandoraden, ange följande kommando och tryck sedan på <keycap>Return</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -448,7 +448,7 @@ copies.</para>
     <para lang="en">
       To report a bug or make a suggestion regarding this application or
       this manual, you can submit them using 
-      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.
+      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.
     </para>
 
     <para lang="en">

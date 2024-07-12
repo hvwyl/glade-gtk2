@@ -1,11 +1,11 @@
-# translation of glade3.HEAD.po to Gujarati
+# translation of glade-gtk2.HEAD.po to Gujarati
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sweta Kothari <swkothar@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.HEAD\n"
+"Project-Id-Version: glade-gtk2.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-08-26 12:25+0000\n"
 "PO-Revision-Date: 2008-08-26 17:40+0530\n"
@@ -17,15 +17,15 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "GTK+ કાર્યક્રમો માટે વપરાશકર્તા ઇન્ટરફેસ રચનાઓ ખોલો અથવા બનાવો"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade ઇન્ટરફેસ રચનાર"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:439
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:439
 msgid "User Interface Designer"
 msgstr "વપરાશકર્તા ઇન્ટરફેસ રચનાર"
 

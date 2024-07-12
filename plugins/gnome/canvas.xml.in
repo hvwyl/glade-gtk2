@@ -3,7 +3,7 @@
                library="gladegnome"
 	       supports="libglade"
                depends="gnome"
-               domain="glade3">
+               domain="glade-gtk2">
   <glade-widget-classes>
     <glade-widget-class name="GnomeCanvas" generic-name="canvas" _title="GNOME Canvas">
       <set-property-function>glade_gnome_canvas_set_property</set-property-function>

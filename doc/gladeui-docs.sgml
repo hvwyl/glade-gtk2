@@ -42,7 +42,7 @@ custom GTK+ derived widgets into the Glade UI Designer.
       <para>
         You can always get the latest version of this document
         <ulink url="http://library.gnome.org/devel/gladeui/unstable/">here</ulink>
-        and you should have received a copy with the glade-3 tarball.
+        and you should have received a copy with the glade-gtk2 tarball.
       </para>
 
     </abstract>

@@ -14,11 +14,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: glade-3.desktop.in.h:1
+#: glade-gtk2.desktop.in.h:1
 msgid "Design user interfaces"
 msgstr ""
 
-#: glade-3.desktop.in.h:2
+#: glade-gtk2.desktop.in.h:2
 msgid "Glade 3.0 GUI builder"
 msgstr ""
 
@@ -44,7 +44,7 @@ msgid ""
 msgstr ""
 
 #: src/main.c:118
-msgid "Glade-3 GUI Builder"
+msgid "glade-gtk2 GUI Builder"
 msgstr ""
 
 #: src/glade-project-window.c:288

@@ -1,4 +1,4 @@
-# Chinese (Taiwan) translation of glade3
+# Chinese (Taiwan) translation of glade-gtk2
 # Copyright (C) 2006, 2007 Free Software Foundation, Inc.
 #
 # Merged from translation of glade 2.x:
@@ -13,7 +13,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 3.7.1\n"
+"Project-Id-Version: glade-gtk2 3.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-12-04 19:53+0800\n"
 "PO-Revision-Date: 2010-12-03 20:07+0800\n"
@@ -24,19 +24,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "建立或開啟 GTK+ 應用程式的使用者介面設計"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Glade 介面設計程式"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "介面設計程式"
 

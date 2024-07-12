@@ -1,9 +1,9 @@
-# translation of glade3-help.master.po to Greek
+# translation of glade-gtk2-help.master.po to Greek
 # Jennie Petoumenou <epetoumenou@gmail.com>, 2009.
-# Translation of glade3 documentation in Greek
+# Translation of glade-gtk2 documentation in Greek
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3-help.master\n"
+"Project-Id-Version: glade-gtk2-help.master\n"
 "POT-Creation-Date: 2009-04-18 18:53+0000\n"
 "PO-Revision-Date: 2009-05-07 10:41+0200\n"
 "Last-Translator: Jennie Petoumenou <epetoumenou@gmail.com>\n"
@@ -355,12 +355,12 @@ msgstr "Γραμμή εντολών"
 #: C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "Για να εκκινήσετε το <application>Glade</application> από τη γραμμή εντολών, "
 "πληκτρολογήστε την ακόλουθη εντολή και στη συνέχεια πατήστε <keycap>Return</"
-"keycap>: <command>glade-3</command>"
+"keycap>: <command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -832,11 +832,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "Για να αναφέρετε ένα σφάλμα ή να κάνετε μία πρόταση σχετικά με την εφαρμογή "
 "ή το εγχειρίδιο, χρησιμοποιήστε το <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 
 #: C/glade.xml:466(para)
 msgid ""

@@ -9254,7 +9254,7 @@ glade_gtk_text_view_post_create (GladeWidgetAdaptor *adaptor,
 		g_object_unref (G_OBJECT (buffy));
 	}
 
-	/* Glade3 hangs when a TextView gets a double click. So we stop them */
+	/* glade-gtk2 hangs when a TextView gets a double click. So we stop them */
 	g_signal_connect (object, "button-press-event",
 			  G_CALLBACK (glade_gtk_text_view_stop_double_click),
 			  NULL);

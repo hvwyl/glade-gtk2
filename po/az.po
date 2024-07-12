@@ -15,11 +15,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 0.8\n"
 
-#: glade-3.desktop.in.h:1
+#: glade-gtk2.desktop.in.h:1
 msgid "Design user interfaces"
 msgstr ""
 
-#: glade-3.desktop.in.h:2
+#: glade-gtk2.desktop.in.h:2
 #, fuzzy
 msgid "Glade 3.0 GUI builder"
 msgstr "GTK+ GUİ qurucusu"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: src/main.c:118
 #, fuzzy
-msgid "Glade-3 GUI Builder"
+msgid "glade-gtk2 GUI Builder"
 msgstr "GTK+ GUİ qurucusu"
 
 #: src/glade-project-window.c:288

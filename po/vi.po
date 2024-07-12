@@ -1,12 +1,12 @@
-# Vietnamese translation for Glade3.
+# Vietnamese translation for glade-gtk2.
 # Copyright © 2009 GNOME I18N Project for Vietnamese.
 # Clytie Siddall <clytie@riverland.net.au>, 2006-2009.
 # Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 TRUNK\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade3&component=general\n"
+"Project-Id-Version: glade-gtk2 TRUNK\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2009-02-05 19:47+0000\n"
 "PO-Revision-Date: 2009-02-10 18:26+0930\n"
 "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: LocFactoryEditor 1.8\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Tạo hay mở bản đồ án thiết kế giao diện người dùng cho ứng dụng GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Bộ thiết kế giao diện Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 #: ../src/glade-window.c:440
 msgid "User Interface Designer"
 msgstr "Bộ thiết kế giao diện người dùng"

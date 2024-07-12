@@ -1,5 +1,5 @@
 # translation of lt.po to Lithuanian
-# Lithuanian translation of Glade-3
+# Lithuanian translation of glade-gtk2
 # Copyright (C) 2001-2007, Ximian Inc., T. Van Berkom et al.
 #
 #
@@ -22,19 +22,19 @@ msgstr ""
 "100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Kurti arba atverti GTK+ programų naudotojo sąsajas"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Glade naudotojo sąsajos projektavimo įrankis"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Naudotojo sąsajos projektavimo įrankis"
 

@@ -1,12 +1,12 @@
-# translation of glade3.HEAD.hi.po to Hindi
-# This is the translated PO file for Glade3
+# translation of glade-gtk2.HEAD.hi.po to Hindi
+# This is the translated PO file for glade-gtk2
 # Copyright (C) 2008 Glade COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE glade.
 # Sunny Sharma <sunnysharmagts@gmail.com>, 2008.
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "POT-Creation-Date: 2008-08-23 03:44+0000\n"
 "PO-Revision-Date: 2008-09-17 23:25+0000\n"
 "Last-Translator:Sunny Sharma <sunnysharmagts@gmail.com>\n"
@@ -227,7 +227,7 @@ msgstr "चुनिये <menuchoice><guisubmenu>प्रोग्राम�
 msgid "Command line"
 msgstr "कमान्ड लाईन" 
 #: C/glade.xml:191(para) 
-msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
+msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
 msgstr "शुरु करने के लिए <application>ग्लेद</application> को कमान्ड लाईन मे लिखिये और फिर <keycap>वापस</keycap>: <command>ग्लेड</command>"
 
 #: C/glade.xml:199(title) 
@@ -501,8 +501,8 @@ msgstr "ग्लेड के बारे मे "
 msgid "Glade is maintained by the Glade developers and GNOME community volunteers. To find more information about Glade, please visit the <ulink url=\"http://glade.gnome.org\" type=\"http\">Glade Web site</ulink>."
 msgstr "ग्लेड को ग्लेड विकासक और ग्नोम स्वयंसेवक कि देखरेख मे रहता है । ग्लेड के बारे मे ज्यादा जानने के लिए <ulink url=\"http://glade.gnome.org\" type=\"http\">Glade Web site</ulink> साईट पर जाईए ।"
 #: C/glade.xml:459(para) 
-msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
-msgstr "इस किताब की गुणस्वभाव कि किसी भी गलती के बारे मे रिपोर्ट देने के लिए या कोई सुझाव देने के लिए आप ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink> पर जा सकते हैं ।"
+msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
+msgstr "इस किताब की गुणस्वभाव कि किसी भी गलती के बारे मे रिपोर्ट देने के लिए या कोई सुझाव देने के लिए आप ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink> पर जा सकते हैं ।"
 
 #: C/glade.xml:466(para) 
 msgid "Another excellent source of information are the Glade <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-users\" type=\"http\">user</ulink> and <ulink url=\"http://lists.ximian.com/mailman/listinfo/glade-devel\" type=\"http\">developer</ulink> mailing lists. In addition to subscribing, you might also want to browse the list archives, available via these same links."

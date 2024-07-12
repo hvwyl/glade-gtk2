@@ -4,7 +4,7 @@
 srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
-PKG_NAME="glade3"
+PKG_NAME="glade-gtk2"
 
 (test -f $srcdir/configure.ac \
   && test -f $srcdir/autogen.sh) || {

@@ -4,7 +4,7 @@
 	       supports="libglade,gtkbuilder"
                icon-prefix="gtk"
                library="gladegtk"
-               domain="glade3"
+               domain="glade-gtk2"
                book="gtk">
   <project-convert-function>glade_gtk_project_convert</project-convert-function>
   <glade-widget-classes>

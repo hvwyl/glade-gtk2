@@ -1,4 +1,4 @@
-# glade3 ja.po.
+# glade-gtk2 ja.po.
 # Copyright (C) 1999-2004,2005-2011 Free Software Foundation, Inc.
 # 大河 雄一 <kuri@makino.cc.tohoku.ac.jp>, 1999-2001.
 # 竹田 寛郁 <takepin@turbolinux.co.jp>, 2000.
@@ -12,7 +12,7 @@
 #    GtkTree*: 項目 (横方向に並べるデータ) と ノード (縦方向に並べるデータ)
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 glade-3-8\n"
+"Project-Id-Version: glade-gtk2 glade-gtk2-8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-10 09:49+0900\n"
 "PO-Revision-Date: 2011-01-09 22:19+0900\n"
@@ -23,19 +23,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "GTK+ アプリの UI ファイルを作成したり編集します"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
-msgstr "Glade3 インタフェース・デザイナ"
+msgstr "glade-gtk2 インタフェース・デザイナ"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "インタフェース・デザイナ"
 

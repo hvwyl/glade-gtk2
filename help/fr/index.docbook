@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Ligne de commande</term>
     		<listitem>
-    		<para>Pour lancer <application>Glade</application> à partir d'une ligne de commande, saisissez la commande ci-après, puis appuyez sur <keycap>Entrée</keycap> : <command>glade-3</command></para>	 
+    		<para>Pour lancer <application>Glade</application> à partir d'une ligne de commande, saisissez la commande ci-après, puis appuyez sur <keycap>Entrée</keycap> : <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>À propos de Glade</title> 
     <para>Glade est maintenu par les développeurs de Glade et par des volontaires de la communauté GNOME. Pour obtenir plus d'informations sur Glade, veuillez consulter le <ulink url="http://glade.gnome.org" type="http">site Web de Glade</ulink>.</para>
-    <para>Pour rapporter une anomalie ou émettre une suggestion concernant cette application ou ce manuel, vous pouvez utiliser l'outil <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.</para>
+    <para>Pour rapporter une anomalie ou émettre une suggestion concernant cette application ou ce manuel, vous pouvez utiliser l'outil <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.</para>
 
     <para>Les listes de diffusion <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">utilisateur</ulink> et <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">développeur</ulink> représentent une autre très bonne source d'informations. Vous pouvez vous y inscrire ou parcourir la liste des archives que vous pouvez aussi découvrir en suivant les liens ci-dessus.</para>
 

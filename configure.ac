@@ -7,8 +7,8 @@ m4_define(glade_minor_version, 8)
 m4_define(glade_micro_version, 6)
 m4_define(glade_version, glade_major_version.glade_minor_version.glade_micro_version)
 
-AC_INIT([glade3], [glade_version],
-	[http://bugzilla.gnome.org/enter_bug.cgi?product=glade3])
+AC_INIT([glade-gtk2], [glade_version],
+	[http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2])
 	
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_SRCDIR([gladeui/glade.h])
@@ -257,7 +257,7 @@ AC_SUBST([AM_LDFLAGS])
 AC_CONFIG_FILES([
 Makefile
 data/gladeui-1.0.pc
-data/glade-3.desktop.in
+data/glade-gtk2.desktop.in
 data/Makefile
 data/icons/Makefile
 data/icons/hicolor/Makefile
@@ -276,7 +276,7 @@ data/icons/hicolor/scalable/apps/Makefile
 gladeui/Makefile
 gladeui/gladeui.rc
 src/Makefile
-src/glade-3.rc
+src/glade-gtk2.rc
 plugins/Makefile
 plugins/gtk+/Makefile
 plugins/gtk+/icons/Makefile

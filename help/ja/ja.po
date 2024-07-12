@@ -1,10 +1,10 @@
-# Japanese translation for glade3.
-# Copyright (C) 2010 glade3's COPYRIGHT HOLDER
-# This file is distributed under the same license as the glade3 package.
+# Japanese translation for glade-gtk2.
+# Copyright (C) 2010 glade-gtk2's COPYRIGHT HOLDER
+# This file is distributed under the same license as the glade-gtk2 package.
 # Hiroyuki Sekihara <hiroyuki.sekihara@gmail.com>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 gnome-2-28\n"
+"Project-Id-Version: glade-gtk2 gnome-2-28\n"
 "POT-Creation-Date: 2010-07-25 00:55+0900\n"
 "PO-Revision-Date: 2010-06-19 12:39+0900\n"
 "Last-Translator: Hiroyuki Sekihara <hiroyuki.sekihara@gmail.com>\n"
@@ -345,11 +345,11 @@ msgstr "コマンドライン"
 #: C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "<application>Glade</application> をコマンドラインから開始するには以下のコマン"
-"ドを入力して<keycap>Return</keycap> キーを押します: <command>glade-3</"
+"ドを入力して<keycap>Return</keycap> キーを押します: <command>glade-gtk2</"
 "command>"
 
 #: C/glade.xml:199(title)
@@ -810,10 +810,10 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "アプリケーションやこのドキュメントに関するバグの報告や提案については <ulink "
-"url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http"
+"url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http"
 "\">bugzilla</ulink> に投稿してください。"
 
 #: C/glade.xml:466(para)

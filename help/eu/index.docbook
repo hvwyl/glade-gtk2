@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Komando-lerroa</term>
     		<listitem>
-    		<para><application>Glade</application> komando-lerrotik abiarazteko, idatzi komando hau, eta sakatu <keycap>Sartu</keycap>: <command>glade-3</command></para>	 
+    		<para><application>Glade</application> komando-lerrotik abiarazteko, idatzi komando hau, eta sakatu <keycap>Sartu</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>Glade-ri buruz</title> 
     <para>Glade-ren garatzaileek eta GNOME komunitateko boluntarioek mantentzen dute Glade. Glade-ri buruzko informazio gehiago lortzeko, bisitatu <ulink url="http://glade.gnome.org" type="http">Glade-ren webgunea</ulink>.</para>
-    <para>Programa-errore baten berri emateko, edo aplikazio naiz eskuliburuari buruzko iradokizunak egiteko, erabili <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.</para>
+    <para>Programa-errore baten berri emateko, edo aplikazio naiz eskuliburuari buruzko iradokizunak egiteko, erabili <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.</para>
 
     <para>Informazio-iturri bikainak dira Glade-ren <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">erabiltzaileen</ulink> eta <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">garatzaileen</ulink> posta-zerrendak ere. Izena emateaz gain, zerrendako fitxategiak araka ditzakezu esteka horiek berak erabiliz.</para>
 

@@ -6,7 +6,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 cvs\n"
+"Project-Id-Version: glade-gtk2 cvs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-05-12 22:47+0000\n"
 "PO-Revision-Date: 2008-05-15 16:40+0200\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:438
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:438
 msgid "User Interface Designer"
 msgstr ""
 

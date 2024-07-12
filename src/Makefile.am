@@ -1,6 +1,6 @@
 ## Process this file with automake to produce Makefile.in
 
-bin_PROGRAMS = glade-3
+bin_PROGRAMS = glade-gtk2
 
 glade_3_CPPFLAGS = \
 	-I$(top_srcdir)    \
@@ -32,7 +32,7 @@ glade_3_LDFLAGS += -mwindows
 endif
 endif
 
-glade-win32-res.o: glade-3.rc
+glade-win32-res.o: glade-gtk2.rc
 	$(WINDRES) $< $@
 
-EXTRA_DIST = glade-3.rc.in
+EXTRA_DIST = glade-gtk2.rc.in

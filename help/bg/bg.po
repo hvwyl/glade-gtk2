@@ -1,4 +1,4 @@
-# Bulgarian translation of glade3 manual.
+# Bulgarian translation of glade-gtk2 manual.
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # Yavor Doganov <yavor@gnu.org>, 2007.
 #
@@ -353,11 +353,11 @@ msgstr "Команден ред"
 #: ../C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "За да стартирате <application>Glade</application> от командния ред, въведете "
-"следната команда и натиснете <keycap>Enter</keycap>: <command>glade-3</"
+"следната команда и натиснете <keycap>Enter</keycap>: <command>glade-gtk2</"
 "command>"
 
 #: ../C/glade.xml:199(title)
@@ -825,11 +825,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "За да докладвате грешка или да направите предложение относно тази програма "
 "или това ръководство, може да ги подадете като използвате <ulink url="
-"\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http"
+"\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http"
 "\">bugzilla</ulink>."
 
 #: ../C/glade.xml:466(para)

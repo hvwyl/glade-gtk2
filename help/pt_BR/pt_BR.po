@@ -250,12 +250,12 @@ msgstr "Linha de comando"
 #: ../C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "Para iniciar o <application>Glade</application> a partir da linha de comando, "
 "digite o seguinte comando, então pressione <keycap>Enter</keycap>: "
-"<command>glade-3</command>"
+"<command>glade-gtk2</command>"
 
 #: ../C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -715,11 +715,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "Para relatar um erro ou fazer uma sugestão em relação a esta aplicação ou a "
 "este manual, você pode enviar usando <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 
 #: ../C/glade.xml:466(para)
 msgid ""

@@ -1,4 +1,4 @@
-# Translation of glade3 to Armenian
+# Translation of glade-gtk2 to Armenian
 # This file is distributed under the same license as the glade package.
 # Copyright (C) Zhanna Sargsyan, 2010.
 # Zhanna Sargsyan <zhanna.sargsyan@yahoo.com>
@@ -6,7 +6,7 @@
 # Narine Martirosyan <training@instigate.am>
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-27 11:35+0500\n"
 "PO-Revision-Date: 2010-08-31 10:08+0400\n"
@@ -16,20 +16,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 "Ստեղծել կամ բացել օգտագործողի ինտերֆեյսի նախագծեր GTK+ աշխատածրագրերի համար"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Glade-ի Ինտերֆեյսի Խմբագիր"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Ինտերֆեյսի Խմբագիր"
 

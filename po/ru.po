@@ -1,11 +1,11 @@
-# translation of glade3 to Russian
+# translation of glade-gtk2 to Russian
 # Copyright (C) 2001 Free Software Foundation
 #
 # Valek Filippov <frob@df.ru>, 2001.
 # Yuri Kozlov <kozlov.y@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 trunk\n"
+"Project-Id-Version: glade-gtk2 trunk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-20 12:57+0300\n"
 "PO-Revision-Date: 2010-08-14 22:06+0300\n"
@@ -17,20 +17,20 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 "Создать или открыть модель пользовательского интерфейса для приложений GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Редактор интерфейсов Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Редактор интерфейсов"
 

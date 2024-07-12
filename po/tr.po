@@ -5,7 +5,7 @@
 # Baris Cicek <baris@teamforce.name.tr>, 2007, 2008, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-08-29 00:02+0300\n"
 "PO-Revision-Date: 2009-08-29 00:05+0300\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=1; plural=0;\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "GTK+ uygulamaları için kullanıcı arabirim tasarımları oluştur ya da aç"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade Arayüz Tasarımcısı"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:444
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:444
 msgid "User Interface Designer"
 msgstr "Kullanıcı Arayüzü Tasarımcısı"
 

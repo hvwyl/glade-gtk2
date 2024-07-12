@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>Info zu Glade</title> 
     <para>Glade wird von den Glade Entwicklern und der freiwilligen GNOME Gemeinschaft betreut. Weitere Informationen über Glade finden Sie auf der <ulink url="http://glade.gnome.org" type="http">Glade-Website</ulink>.</para>
-    <para>Um einen Fehler zu melden oder einen Vorschlag zu dieser Anwendung oder zu diesem Handbuch zu machen, benutzen Sie bitte das<ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">Bugzilla-Fehlererfassungssystem</ulink>.</para>
+    <para>Um einen Fehler zu melden oder einen Vorschlag zu dieser Anwendung oder zu diesem Handbuch zu machen, benutzen Sie bitte das<ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">Bugzilla-Fehlererfassungssystem</ulink>.</para>
 
     <para>Eine weitere hervorragende Informationsquelle sind die Mailinglisten der <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">Benutzer</ulink> und <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">Entwickler</ulink> von Glade. Sie können sich bei diesen Mailinglisten anmelden und zusätzlich die Listenarchive durchsuchen, die über die gleichen Links erreichbar sind.</para>
 

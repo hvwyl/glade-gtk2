@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Командная строка</term>
     		<listitem>
-    		<para>Для запуска <application>Glade</application> из командной строки, наберите следующую команду и нажмите <keycap>Enter</keycap>: <command>glade-3</command></para>	 
+    		<para>Для запуска <application>Glade</application> из командной строки, наберите следующую команду и нажмите <keycap>Enter</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>О программе Glade</title> 
     <para>Glade поддерживается разработчиками Glade и волонтёрами сообщества GNOME. Для того, чтобы узнать больше о Glade, посетите <ulink url="http://glade.gnome.org" type="http">Веб-сайт Glade</ulink>.</para>
-    <para>Для того, чтобы сообщить об ошибке или внести предложение, касающееся этого приложения или руководства к нему, вы можете предоставить их на рассмотрение в <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.</para>
+    <para>Для того, чтобы сообщить об ошибке или внести предложение, касающееся этого приложения или руководства к нему, вы можете предоставить их на рассмотрение в <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.</para>
 
     <para>Другим хорошим источником информации о Glade являются списки рассылки <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">user</ulink> и <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">developer</ulink>. Кроме возможности подписаться на них, вы можете просмотреть архивы списков рассылки, которые доступны по этим ссылкам.</para>
 

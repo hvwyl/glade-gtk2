@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Příkazový řádek</term>
     		<listitem>
-    		<para>Pokud chcete aplikaci <application>Glade</application> spustit z příkazové řádky, zadejte následující příkaz a zmáčkněte <keycap>Return</keycap>: <command>glade-3</command></para>	 
+    		<para>Pokud chcete aplikaci <application>Glade</application> spustit z příkazové řádky, zadejte následující příkaz a zmáčkněte <keycap>Return</keycap>: <command>glade-gtk2</command></para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>O aplikaci Glade</title> 
     <para>O údržbu aplikace Glade se starají vývojáři Glade a komunita dobrovolníků GNOME. Pokud hledáte o aplikaci Glade více informací, navštivte prosím <ulink url="http://glade.gnome.org" type="http">web Glade</ulink>.</para>
-    <para>Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k této aplikaci nebo této příručce, zašlete je pomocí <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">stránek bugzilla</ulink>.</para>
+    <para>Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k této aplikaci nebo této příručce, zašlete je pomocí <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">stránek bugzilla</ulink>.</para>
 
     <para>Dalším vynikajícím zdrojem informací jsou poštovní konference <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">uživatelů</ulink> a <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">vývojářů</ulink> Glade. Můžete se přihlásit k odběru těchto konferencí a nebo si jen procházet jejich archivy, které rovněž najdete pod uvedenými odkazy.</para>
 

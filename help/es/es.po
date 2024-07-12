@@ -1,10 +1,10 @@
-# translation of glade3.help.HEAD.po to Español
+# translation of glade-gtk2.help.HEAD.po to Español
 # Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008.
-# spanish translation for glade3 manual
-# traducción al español del manual de glade3
+# spanish translation for glade-gtk2 manual
+# traducción al español del manual de glade-gtk2
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.help.HEAD\n"
+"Project-Id-Version: glade-gtk2.help.HEAD\n"
 "POT-Creation-Date: 2008-02-12 18:58+0000\n"
 "PO-Revision-Date: 2008-02-12 19:44+0100\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
@@ -352,12 +352,12 @@ msgstr "Línea de comandos"
 #: C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "Para iniciar <application>Glade</application> desde la línea de comandos, "
 "escriba el siguiente comando, después pulse <keycap>Retorno</keycap>: "
-"<command>glade-3</command>"
+"<command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -823,11 +823,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "Para informar de un fallo, o hacer alguna sugerencia concerniente a esta "
 "aplicación o este manual, puede enviarlos usando <ulink url=\"http://"
-"bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</"
+"bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</"
 "ulink>."
 
 #: C/glade.xml:466(para)

@@ -1,11 +1,11 @@
-# Simplified Chinese translation of glade3 user guide
+# Simplified Chinese translation of glade-gtk2 user guide
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as glade3 package.
+# This file is distributed under the same license as glade-gtk2 package.
 # 苏运强 <wzssyqa@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3-help 3.0\n"
+"Project-Id-Version: glade-gtk2-help 3.0\n"
 "POT-Creation-Date: 2010-07-19 18:18+0000\n"
 "PO-Revision-Date: 2010-07-23 12:10+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
@@ -319,11 +319,11 @@ msgstr "命令行"
 #: C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "要从命令行启动 <application>Glade</application>，输入如下命名然后按 "
-"<keycap>Return</keycap>：<command>glade-3</command>"
+"<keycap>Return</keycap>：<command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -746,10 +746,10 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "报告关于本程序和本手册的bug或建议，您可以使用 <ulink url=\"http://bugzilla."
-"gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>。"
+"gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>。"
 
 #: C/glade.xml:466(para)
 msgid ""

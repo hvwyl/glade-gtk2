@@ -1,6 +1,6 @@
 @YELP_HELP_RULES@
 
-HELP_ID = glade3
+HELP_ID = glade-gtk2
 
 HELP_FILES = \
 	     index.docbook \

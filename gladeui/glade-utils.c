@@ -1546,7 +1546,7 @@ glade_util_load_library (const gchar *library_name)
 
 	if (!module)
 	{
-		/* Search ${prefix}/lib after searching ${prefix}/lib/glade3/modules... */
+		/* Search ${prefix}/lib after searching ${prefix}/lib/glade-gtk2/modules... */
 		default_paths[1] = g_build_filename (glade_app_get_modules_dir (), "..", "..", NULL);
 
 		for (i = 0; default_paths[i] != NULL; i++)

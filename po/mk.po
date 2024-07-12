@@ -1,11 +1,11 @@
-# translation of glade3.HEAD.mk.po to Macedonian
+# translation of glade-gtk2.HEAD.mk.po to Macedonian
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Jovan Naumovski <jovan@lugola.net>, 2007, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.HEAD.mk\n"
+"Project-Id-Version: glade-gtk2.HEAD.mk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-01-13 17:06+0000\n"
 "PO-Revision-Date: 2008-03-01 01:39+0100\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Креирај или отворај дизајни за кориснички интерфејс за GTK+ апликации"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade дизајнер на интерфејс "
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:440
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:440
 msgid "User Interface Designer"
 msgstr "Дизајнер на кориснички интерфејс"
 

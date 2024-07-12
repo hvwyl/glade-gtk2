@@ -7,7 +7,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 doc fr\n"
+"Project-Id-Version: glade-gtk2 doc fr\n"
 "POT-Creation-Date: 2007-03-23 22:11+0100\n"
 "PO-Revision-Date: 2007-03-23 22:15+0100\n"
 "Last-Translator: Claude Paroz <claude@2xlibre.net>\n"
@@ -345,12 +345,12 @@ msgstr "Ligne de commande"
 #: ../C/glade.xml:191(para)
 msgid ""
 "To start <application>Glade</application> from a command line, type the "
-"following command, then press <keycap>Return</keycap>: <command>glade-3</"
+"following command, then press <keycap>Return</keycap>: <command>glade-gtk2</"
 "command>"
 msgstr ""
 "Pour lancer <application>Glade</application> à partir d'une ligne de "
 "commande, saisissez la commande ci-après, puis appuyez sur <keycap>Entrée</"
-"keycap> : <command>glade-3</command>"
+"keycap> : <command>glade-gtk2</command>"
 
 #: ../C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -819,11 +819,11 @@ msgstr ""
 msgid ""
 "To report a bug or make a suggestion regarding this application or this "
 "manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/"
-"enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+"enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 "Pour rapporter une anomalie ou émettre une suggestion concernant cette "
 "application ou ce manuel, vous pouvez utiliser l'outil <ulink url=\"http://"
-"bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</"
+"bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</"
 "ulink>."
 
 #: ../C/glade.xml:466(para)

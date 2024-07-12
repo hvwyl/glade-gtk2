@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glade-catalog supports="libglade" name="gnome" library="gladegnome" domain="glade3" depends="gtk+" book="libgnomeui">
+<glade-catalog supports="libglade" name="gnome" library="gladegnome" domain="glade-gtk2" depends="gtk+" book="libgnomeui">
   <init-function>glade_gnomeui_init</init-function>
   <glade-widget-classes>
     <glade-widget-class name="GnomeApp" generic-name="app" default-width="440" default-height="250" title="GNOME App">

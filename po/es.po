@@ -1,5 +1,5 @@
-# translation of glade3.master.po to Español
-# Spanish Translation for Glade3
+# translation of glade-gtk2.master.po to Español
+# Spanish Translation for glade-gtk2
 # Copyright (C) 1999-2001, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
 #
 # Raúl Alexis Betancort Santana <a2363@correo.dis.ulpgc.es>, 1999.
@@ -9,9 +9,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.master\n"
+"Project-Id-Version: glade-gtk2.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=glade3&component=general\n"
+"product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2010-10-12 08:48+0000\n"
 "PO-Revision-Date: 2010-10-12 13:42+0200\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
@@ -22,19 +22,19 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Cree o abra diseños de interfaces de usuario para aplicaciones GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Diseñador de interfaces Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Diseñador de interfaces"
 

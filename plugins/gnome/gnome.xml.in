@@ -2,7 +2,7 @@
                library="gladegnome"
 	       supports="libglade"
                depends="gtk+"
-               domain="glade3"
+               domain="glade-gtk2"
                book="libgnomeui">
   <init-function>glade_gnomeui_init</init-function>
   <glade-widget-classes>

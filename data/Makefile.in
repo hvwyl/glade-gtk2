@@ -101,7 +101,7 @@ am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \
 DIST_COMMON = $(srcdir)/Makefile.am $(am__DIST_COMMON)
 mkinstalldirs = $(install_sh) -d
 CONFIG_HEADER = $(top_builddir)/config.h
-CONFIG_CLEAN_FILES = gladeui-1.0.pc glade-3.desktop.in
+CONFIG_CLEAN_FILES = gladeui-1.0.pc glade-gtk2.desktop.in
 CONFIG_CLEAN_VPATH_FILES =
 AM_V_P = $(am__v_P_@AM_V@)
 am__v_P_ = $(am__v_P_@AM_DEFAULT_V@)
@@ -189,7 +189,7 @@ ETAGS = etags
 CTAGS = ctags
 DIST_SUBDIRS = $(SUBDIRS)
 am__DIST_COMMON = $(srcdir)/Makefile.in \
-	$(srcdir)/glade-3.desktop.in.in $(srcdir)/gladeui-1.0.pc.in
+	$(srcdir)/glade-gtk2.desktop.in.in $(srcdir)/gladeui-1.0.pc.in
 DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)
 am__relativize = \
   dir0=`pwd`; \
@@ -423,7 +423,7 @@ top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 SUBDIRS = icons
 desktopdir = $(datadir)/applications
-desktop_in_files = glade-3.desktop.in.in
+desktop_in_files = glade-gtk2.desktop.in.in
 desktop_DATA = $(desktop_in_files:.desktop.in.in=.desktop)
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = gladeui-1.0.pc
@@ -469,7 +469,7 @@ $(ACLOCAL_M4): @MAINTAINER_MODE_TRUE@ $(am__aclocal_m4_deps)
 $(am__aclocal_m4_deps):
 gladeui-1.0.pc: $(top_builddir)/config.status $(srcdir)/gladeui-1.0.pc.in
 	cd $(top_builddir) && $(SHELL) ./config.status $(subdir)/$@
-glade-3.desktop.in: $(top_builddir)/config.status $(srcdir)/glade-3.desktop.in.in
+glade-gtk2.desktop.in: $(top_builddir)/config.status $(srcdir)/glade-gtk2.desktop.in.in
 	cd $(top_builddir) && $(SHELL) ./config.status $(subdir)/$@
 
 mostlyclean-libtool:

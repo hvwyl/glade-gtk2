@@ -2,7 +2,7 @@
 # List of source files containing translatable strings.
 
 # Main application
-data/glade-3.desktop.in.in
+data/glade-gtk2.desktop.in.in
 src/main.c
 src/glade-close-button.c
 src/glade-window.c

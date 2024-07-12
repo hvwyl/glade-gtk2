@@ -1,4 +1,4 @@
-# translation of glade3.HEAD.ar.po to
+# translation of glade-gtk2.HEAD.ar.po to
 # Arabic translations for PACKAGE package.
 # Copyright (C) 2006 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
@@ -8,7 +8,7 @@
 # Anas Afif Emad <anas.e87@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.HEAD.ar\n"
+"Project-Id-Version: glade-gtk2.HEAD.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-11-09 21:36+0200\n"
 "PO-Revision-Date: 2009-11-09 21:44+0300\n"
@@ -23,15 +23,15 @@ msgstr ""
 "X-Generator: Virtaal 0.4.1\n"
 "X-Poedit-Language: Arabic\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "أنشئ أو افتح تصميمات واجهات مستخدم لتطبيقات جتك+"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "مصمم الواجهة جلايد"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:444
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:444
 msgid "User Interface Designer"
 msgstr "مصمم واجهة المستخدم"
 

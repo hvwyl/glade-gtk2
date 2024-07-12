@@ -3,7 +3,7 @@
 SUBDIRS = icons
 
 desktopdir = $(datadir)/applications
-desktop_in_files = glade-3.desktop.in.in
+desktop_in_files = glade-gtk2.desktop.in.in
 desktop_DATA = $(desktop_in_files:.desktop.in.in=.desktop)
 @INTLTOOL_DESKTOP_RULE@
 

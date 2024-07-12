@@ -1,11 +1,11 @@
-# translation of glade3.po to Bengali (India)
+# translation of glade-gtk2.po to Bengali (India)
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #: ../gladeui/glade-project.c:670
 # Runa Bhattacharjee <runabh@gmail.com>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-03 19:43+0100\n"
 "PO-Revision-Date: 2007-07-09 18:18+0530\n"
@@ -17,15 +17,15 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr ""
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-project-window.c:408
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-project-window.c:408
 msgid "User Interface Designer"
 msgstr ""
 

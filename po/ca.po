@@ -1,5 +1,5 @@
-# Catalan translation of Glade3
-# Traducció del Glade3 de l'equip de Softcatalà.
+# Catalan translation of glade-gtk2
+# Traducció del glade-gtk2 de l'equip de Softcatalà.
 #
 # Jordi Mas <jmas@softcatala.org>, 2006.
 # Quico Llach <quico@softcatala.org>, 2000.
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Creeu o obriu dissenys d'interfície d'usuari per a aplicacions GTK+"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Dissenyador d'interfícies Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Dissenyador d'interfícies"
 

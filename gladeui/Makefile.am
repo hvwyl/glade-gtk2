@@ -16,7 +16,7 @@ BUILT_SOURCES = glade-marshallers.c glade-marshallers.h
 
 EXTRA_DIST = glade-marshallers.list gladeui.rc.in icon-naming-spec.c
 
-# The glade-3 core library
+# The glade-gtk2 core library
 libgladeui_1_la_SOURCES = \
 	glade-widget-adaptor.c \
 	glade-debug.c \

@@ -1,10 +1,10 @@
-# Shavian translation for glade3.
+# Shavian translation for glade-gtk2.
 # Copyright (C) 2009-2010 The Gnome Foundation.
 # Thomas Thurman <tthurman@gnome.org>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade3&component=general\n"
+"Project-Id-Version: glade-gtk2\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2010-05-15 16:13+0000\n"
 "PO-Revision-Date: 2010-05-18 10:04 -0400\n"
 "Last-Translator: Thomas Thurman <tthurman@gnome.org>\n"
@@ -14,19 +14,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "𐑒𐑮𐑦𐑱𐑑 𐑹 𐑴𐑐𐑩𐑯 𐑿𐑟𐑼 𐑦𐑯𐑑𐑼𐑓𐑱𐑕 𐑛𐑩𐑟𐑲𐑯𐑟 𐑓𐑹 GTK+ 𐑩𐑐𐑤𐑦𐑒𐑱𐑕𐑩𐑯𐑟"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "·𐑜𐑤𐑱𐑛"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "·𐑜𐑤𐑱𐑛 𐑦𐑯𐑑𐑼𐑓𐑱𐑕 𐑛𐑩𐑟𐑲𐑯𐑼"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "𐑦𐑯𐑑𐑼𐑓𐑱𐑕 𐑛𐑩𐑟𐑲𐑯𐑼"
 

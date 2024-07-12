@@ -1,6 +1,6 @@
-# Glade3 translation - Czech.
-# Copyright (C) 2009, 2010 the author(s) of glade3.
-# This file is distributed under the same license as the glade3 package.
+# glade-gtk2 translation - Czech.
+# Copyright (C) 2009, 2010 the author(s) of glade-gtk2.
+# This file is distributed under the same license as the glade-gtk2 package.
 # Lucas Lommer <llommer@svn.gnome.org>, 2008, 2009.
 # Petr Kovar <pknbe@volny.cz>, 2009.
 # Václav Švejcar <xwinus@gmail.com>, 2009.
@@ -8,9 +8,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
+"Project-Id-Version: glade-gtk2\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=glade3&component=general\n"
+"product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2010-09-21 04:39+0000\n"
 "PO-Revision-Date: 2010-08-30 19:52+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
@@ -24,21 +24,21 @@ msgstr ""
 "X-Poedit-Language: Czech\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr ""
 "Vytváření nebo otevírání návrhů uživatelského rozhraní pro aplikace GTK+ "
 "nebo GNOME"
 
-#: ../data/glade-3.desktop.in.in.h:2 ../src/main.c:42
+#: ../data/glade-gtk2.desktop.in.in.h:2 ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Návrhář rozhraní Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Návrhář rozhraní"
 

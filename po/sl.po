@@ -1,14 +1,14 @@
-# Slovenian translation for glade3.
-# Copyright (C) 2009 glade3 COPYRIGHT HOLDER
-# This file is distributed under the same license as the glade3 package.
+# Slovenian translation for glade-gtk2.
+# Copyright (C) 2009 glade-gtk2 COPYRIGHT HOLDER
+# This file is distributed under the same license as the glade-gtk2 package.
 #
 # Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2010.
 # Peter Kragelj <peter.kragelj@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade3&component=general\n"
+"Project-Id-Version: glade-gtk2\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2010-11-05 15:03+0000\n"
 "PO-Revision-Date: 2010-11-10 09:14+0100\n"
 "Last-Translator: Peter Kragelj <peter.kragelj@gmail.com>\n"
@@ -21,20 +21,20 @@ msgstr ""
 "X-Poedit-Country: SLOVENIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "Oblikovanje in odpiranje uporabniških vmesnikov za GTK+ aplikacije"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 #: ../src/main.c:42
 msgid "Glade"
 msgstr "Glade"
 
-#: ../data/glade-3.desktop.in.in.h:3
+#: ../data/glade-gtk2.desktop.in.in.h:3
 msgid "Glade Interface Designer"
 msgstr "Snovalnik vmesnikov Glade"
 
-#: ../data/glade-3.desktop.in.in.h:4
+#: ../data/glade-gtk2.desktop.in.in.h:4
 msgid "Interface Designer"
 msgstr "Snovalnik vmesnika "
 

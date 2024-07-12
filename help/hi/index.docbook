@@ -382,7 +382,7 @@ project,
     <para lang="en">
       To report a bug or make a suggestion regarding this application or
       this manual, you can submit them using 
-      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzilla</ulink>.
+      <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzilla</ulink>.
     </para>
 
     <para>और दुसरे ग्लेड साईट है <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">user</ulink> and <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">developer</ulink> मेलिग पर्ची ।</para>

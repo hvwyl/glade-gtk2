@@ -1,4 +1,4 @@
-# translation of glade3.HEAD.ml.po to
+# translation of glade-gtk2.HEAD.ml.po to
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
@@ -6,8 +6,8 @@
 # Hari Vishnu <harivishnu@gmail.com>, 2008
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3.HEAD.ml\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade3&component=general\n"
+"Project-Id-Version: glade-gtk2.HEAD.ml\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2&component=general\n"
 "POT-Creation-Date: 2009-03-02 23:55+0000\n"
 "PO-Revision-Date: 2009-03-13 21:37+0530\n"
 "Last-Translator: \n"
@@ -18,15 +18,15 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/glade-3.desktop.in.in.h:1
+#: ../data/glade-gtk2.desktop.in.in.h:1
 msgid "Create or open user interface designs for GTK+ applications"
 msgstr "GTK+ പ്റോഗ്റാമുകള്‍ക്കുളള യൂസറ്‍ ഇന്റര്‍ഫെയിസ് രീതികള്‍ ഉണ്ടാക്കുക അല്ലെങ്കില്‍ തുറക്കുക"
 
-#: ../data/glade-3.desktop.in.in.h:2
+#: ../data/glade-gtk2.desktop.in.in.h:2
 msgid "Glade Interface Designer"
 msgstr "Glade ഇന്‍ററ്‍ഫെയിസ് ഡിസൈനറ്‍"
 
-#: ../data/glade-3.desktop.in.in.h:3 ../src/glade-window.c:440
+#: ../data/glade-gtk2.desktop.in.in.h:3 ../src/glade-window.c:440
 msgid "User Interface Designer"
 msgstr "യൂസറ്‍ ഇന്‍ററ്‍ഫെയിസ് ഡിസൈനറ്‍"
 

@@ -177,7 +177,7 @@
     	<varlistentry>
     		<term>Ukazna vrstica</term>
     		<listitem>
-    		<para>Za zagon programa <application>Glade</application> iz ukazne vrstice, je treba vpisati ukaz <command>glade-3</command> in pritisniti tipko <keycap>Enter</keycap>.</para>	 
+    		<para>Za zagon programa <application>Glade</application> iz ukazne vrstice, je treba vpisati ukaz <command>glade-gtk2</command> in pritisniti tipko <keycap>Enter</keycap>.</para>	 
     		</listitem>
     	</varlistentry>
     </variablelist>
@@ -379,7 +379,7 @@ project,
 <sect1 id="about"> 
     <title>O Glade</title> 
     <para>Snovalnik Glade vzdržujejo Glade razvijalci in prostovoljci skupnosti GNOME. Če želite o programu Glade najti več podrobnosti, sledite povezavi na <ulink url="http://glade.gnome.org" type="http">spletno stran Glade</ulink>.</para>
-    <para>V primeru, da želite prijaviti programski hrošč ali podati predloge glede programa in priročnika, lahko to naredite preko <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade3" type="http">bugzille</ulink>.</para>
+    <para>V primeru, da želite prijaviti programski hrošč ali podati predloge glede programa in priročnika, lahko to naredite preko <ulink url="http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2" type="http">bugzille</ulink>.</para>
 
     <para>Dodatni viri so tudi <ulink url="http://lists.ximian.com/mailman/listinfo/glade-users" type="http">uporabniški</ulink> in <ulink url="http://lists.ximian.com/mailman/listinfo/glade-devel" type="http">razvijalski</ulink> dopisni seznami. Seznami omogočajo tudi brskanje po arhivih dostopnih na istih povezavah.</para>
 

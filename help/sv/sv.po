@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: glade3 doc\n"
+"Project-Id-Version: glade-gtk2 doc\n"
 "POT-Creation-Date: 2006-12-28 04:12+0000\n"
 "PO-Revision-Date: 2006-12-28 12:54+0100\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
@@ -234,8 +234,8 @@ msgid "Command line"
 msgstr "Kommandorad"
 
 #: C/glade.xml:191(para)
-msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-3</command>"
-msgstr "För att starta <application>Glade</application> från kommandoraden, ange följande kommando och tryck sedan på <keycap>Return</keycap>: <command>glade-3</command>"
+msgid "To start <application>Glade</application> from a command line, type the following command, then press <keycap>Return</keycap>: <command>glade-gtk2</command>"
+msgstr "För att starta <application>Glade</application> från kommandoraden, ange följande kommando och tryck sedan på <keycap>Return</keycap>: <command>glade-gtk2</command>"
 
 #: C/glade.xml:199(title)
 msgid "When You Start <application>Glade</application>"
@@ -514,7 +514,7 @@ msgid "Glade is maintained by the Glade developers and GNOME community volunteer
 msgstr ""
 
 #: C/glade.xml:459(para)
-msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade3\" type=\"http\">bugzilla</ulink>."
+msgid "To report a bug or make a suggestion regarding this application or this manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org/enter_bug.cgi?product=glade-gtk2\" type=\"http\">bugzilla</ulink>."
 msgstr ""
 
 #: C/glade.xml:466(para)

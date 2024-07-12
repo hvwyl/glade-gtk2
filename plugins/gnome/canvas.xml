@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glade-catalog supports="libglade" name="canvas" library="gladegnome" icon-prefix="gnome" domain="glade3" depends="gnome">
+<glade-catalog supports="libglade" name="canvas" library="gladegnome" icon-prefix="gnome" domain="glade-gtk2" depends="gnome">
   <glade-widget-classes>
     <glade-widget-class name="GnomeCanvas" generic-name="canvas" title="GNOME Canvas">
       <set-property-function>glade_gnome_canvas_set_property</set-property-function>

@@ -25,16 +25,16 @@ Other tools are available which can turn the XML files into source code
 in languages such as C++, Perl and Python.
 
 
-About Glade-3
+About glade-gtk2
 ~~~~~~~~~~~~~
 
-This version of Glade (Glade-3) is a complete rewrite of the original Glade codebase.
+This version of Glade (glade-gtk2) is a complete rewrite of the original Glade codebase.
 
 One of the main differences from glade-2 is that C code generation has been removed from 
-glade-3: this has been done on purpose, since using generated code is deprecated; the preferred 
+glade-gtk2: this has been done on purpose, since using generated code is deprecated; the preferred 
 way to use glade files is with libglade (if code generation is needed, this can be provided 
-as another tool or plugin, code generation is simply not a part of the glade-3 project).
-Another main difference is that glade-3 was designed to make maximal use of GObject
+as another tool or plugin, code generation is simply not a part of the glade-gtk2 project).
+Another main difference is that glade-gtk2 was designed to make maximal use of GObject
 introspection, thus easing the integration of external toolkits and handling widgets,
 signals and properties genericly; thus making it easier to write fancy features in the 
 future (toolkits such as gtk+ itself, gnome, gnome-db and any others are implemented 
@@ -45,7 +45,7 @@ It has a few useful new features such as stacked Undo/Redo and Multiple Project 
 and respects the same XML format as glade-2.
 
 For a more details on what has changed, what still needs work, etc. see
-the NEWS file & the glade3 product at bugzilla.gnome.org.
+the NEWS file & the glade-gtk2 product at bugzilla.gnome.org.
 Comments, bug reports and patches are more than welcome.
 
 
